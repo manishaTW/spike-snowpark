@@ -8,8 +8,8 @@ object Main {
     // Replace the <placeholders> below.
     val configs = Map (
       "URL" -> "https://xr72588.ap-south-1.aws.snowflakecomputing.com:443",
-      "USER" -> "manisha",
-      "PASSWORD" -> "Welcome@123",
+      "USER" -> "<user>",
+      "PASSWORD" -> "<password>",
       "ROLE" -> "SYSADMIN",
       "WAREHOUSE" -> "",
       "DB" -> "DEMO_DB",
